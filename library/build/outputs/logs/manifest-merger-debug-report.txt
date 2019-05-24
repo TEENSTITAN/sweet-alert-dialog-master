@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-10:12
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:1:1-8:12
 	package
 		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:2:1-31
 		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
@@ -21,15 +21,19 @@ INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\Andr
 		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:3:1-24
 		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
 		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
+application
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:5-20
 uses-sdk
-ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:1-42
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:1-42
-INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:1-42
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:11-40
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
-		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:6:1-42
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
 		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml
-application
-ADDED from F:\Download\Chrome\sweet-alert-dialog-master\library\src\main\AndroidManifest.xml:8:1-16

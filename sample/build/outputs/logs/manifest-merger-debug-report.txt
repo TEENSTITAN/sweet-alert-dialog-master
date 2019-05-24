@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-16:12
+MERGED from [:library] F:\Download\Chrome\sweet-alert-dialog-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\OY\.gradle\caches\transforms-2\files-2.1\eb7093efd42896d7b3da382b85906e3e\AndroidManifest.xml:2:1-13:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-16:12
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:3:11-48
+	android:versionName
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-46
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-46
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-46
+MERGED from [:library] F:\Download\Chrome\sweet-alert-dialog-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] F:\Download\Chrome\sweet-alert-dialog-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\OY\.gradle\caches\transforms-2\files-2.1\eb7093efd42896d7b3da382b85906e3e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\OY\.gradle\caches\transforms-2\files-2.1\eb7093efd42896d7b3da382b85906e3e\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-46
+INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-46
+	android:targetSdkVersion
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:15-44
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:6:5-46
+		INJECTED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml
+application
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:5-15:19
+MERGED from [:library] F:\Download\Chrome\sweet-alert-dialog-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] F:\Download\Chrome\sweet-alert-dialog-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\OY\.gradle\caches\transforms-2\files-2.1\eb7093efd42896d7b3da382b85906e3e\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.7] C:\Users\OY\.gradle\caches\transforms-2\files-2.1\eb7093efd42896d7b3da382b85906e3e\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:51-87
+	android:theme
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:7:88-135
+activity#cn.pedant.SweetAlert.sample.SampleActivity
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:8:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from F:\Download\Chrome\sweet-alert-dialog-master\sample\src\main\AndroidManifest.xml:12:27-74

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri May 24 16:07:10 CST 2019
+#Fri May 24 16:22:30 CST 2019
 0.baseType=DIRECTORY
 0.base=F\:\\Download\\Chrome\\sweet-alert-dialog-master\\sample\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 0.path=classes.dex

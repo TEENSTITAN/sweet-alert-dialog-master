@@ -4,12 +4,12 @@
         "source": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\library\\build\\intermediates\\packaged_res\\debug\\drawable\\warning_circle.xml"
     },
     {
-        "merged": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_gray_button_background.xml.flat",
-        "source": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\library\\build\\intermediates\\packaged_res\\debug\\drawable\\gray_button_background.xml"
-    },
-    {
         "merged": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_blue_button_background.xml.flat",
         "source": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\library\\build\\intermediates\\packaged_res\\debug\\drawable\\blue_button_background.xml"
+    },
+    {
+        "merged": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable_gray_button_background.xml.flat",
+        "source": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\library\\build\\intermediates\\packaged_res\\debug\\drawable\\gray_button_background.xml"
     },
     {
         "merged": "F:\\Download\\Chrome\\sweet-alert-dialog-master\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.jpg.flat",

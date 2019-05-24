@@ -25,7 +25,7 @@ android {
 
 dependencies {
     implementation 'com.pnikosis:materialish-progress:1.7'
-    implementation 'com.android.tools.external.com-intellij:intellij-core:26.4.1'
+//    implementation 'com.android.tools.external.com-intellij:intellij-core:26.4.1'
 }
 
 //apply from: 'https://raw.github.com/chrisbanes/gradle-mvn-push/master/gradle-mvn-push.gradle'
